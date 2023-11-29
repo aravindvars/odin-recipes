@@ -1,0 +1,13 @@
+.title {
+  background-color: blueviolet;
+  color: #000000;
+  text-align: center;
+}
+.unlist,
+.recipe {
+  color: red;
+}
+.unlist a:hover {
+  background-color: #ffff00;
+  color: #333033;
+}
